@@ -6,7 +6,7 @@ públicas a implementar y **se deja a criterio del alumno la creación de
 las funciones privadas del TDA** para el correcto funcionamiento del
 **ABB** cumpliendo con las buenas prácticas de programación.
 Adicionalmente se pide la creación de un iterador interno que sea capaz
-de realizar diferentes recorridos en el árbol y una funcione que guarda
+de realizar diferentes recorridos en el árbol y una funcion que guarda
 la información almacenada en el árbol en un vector.
 
 El TDA entregado deberá compilar y **pasar las pruebas dispuestas por la 
